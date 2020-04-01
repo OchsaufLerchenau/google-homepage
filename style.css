@@ -37,6 +37,7 @@ li {
 .logo {
     width: 400px;
     margin: auto;
+    padding: 15px;
 }
 
 #search-bar-form {
