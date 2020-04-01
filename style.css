@@ -1,14 +1,3 @@
-.logo {
-    width: 400px;
-    margin: auto;
-}
-
-#applications-logo {
-    max-width: 24px;
-    max-height: 24px;
-    
-}
-
 ul {
     list-style-type: none;
     display: flex;
@@ -26,6 +15,12 @@ li {
     margin-bottom: auto;
 }
 
+#applications-logo {
+    max-width: 24px;
+    max-height: 24px;
+    
+}
+
 #account-logo {
     background-color: #5c6bc0;
     font-family: arial,sans-serif;
@@ -37,4 +32,65 @@ li {
     padding-right: 9.34px;
     padding-left: 9.3333333px;
     border-radius: 50%;
+}
+
+.logo {
+    width: 400px;
+    margin: auto;
+}
+
+#search-bar-form {
+    width: 482px;
+    margin: auto;
+    border-radius: 22px;
+    border: 1px solid #e7e7e7;
+    align-items: center;
+    justify-content: center;
+}
+
+#search-logo {
+    max-width: 17px;
+    max-height: 17px;
+    position: relative;
+    left: 14px;
+    top: 2px;
+}
+
+#keyboard-logo{
+    max-width: 17px;
+    max-height: 17px;
+    position: relative;
+    left: 115px;
+}
+#search-bar {
+    width: 300px;
+        
+    font-size: 16px;
+    padding-top: 8.5px;padding-bottom: 8.5px;
+    border: 1px solid white;
+    position: relative;
+    left: 18px;
+}
+
+#buttons {
+    width: 500px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button {
+    background-color: #f2f2f2;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
 }
