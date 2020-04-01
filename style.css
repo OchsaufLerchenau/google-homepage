@@ -1,0 +1,40 @@
+.logo {
+    width: 400px;
+    margin: auto;
+}
+
+#applications-logo {
+    max-width: 24px;
+    max-height: 24px;
+    
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+li {
+    display: inline;
+    padding: 8px;
+    font-size: 13px;
+    font-family: arial,sans-serif;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#account-logo {
+    background-color: #5c6bc0;
+    font-family: arial,sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    color: white;
+    padding-top: 6.5px;
+    padding-bottom: 6.5px;
+    padding-right: 9.34px;
+    padding-left: 9.3333333px;
+    border-radius: 50%;
+}
