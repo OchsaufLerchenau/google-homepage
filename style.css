@@ -37,11 +37,14 @@ li {
 .logo {
     width: 400px;
     margin: auto;
-    padding: 15px;
+    padding-bottom: 25px;
+    padding-top: 120px;
+    position: relative;
+    left: 60px;
 }
 
 #search-bar-form {
-    width: 482px;
+    width: 590px;
     margin: auto;
     border-radius: 22px;
     border: 1px solid #e7e7e7;
@@ -61,7 +64,7 @@ li {
     max-width: 17px;
     max-height: 17px;
     position: relative;
-    left: 115px;
+    left: 220px;
 }
 #search-bar {
     width: 300px;
@@ -79,7 +82,9 @@ li {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-top: 20px;
 }
+
 button {
     background-color: #f2f2f2;
     background-color: #f2f2f2;
